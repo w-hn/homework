@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 请将标题写在这里
+title:“双鸭山大学”的来源
 ---
 
 # 我的博客标题
@@ -14,3 +14,7 @@ title: 请将标题写在这里
 用 vscode 编辑它，然后提交！
 
 这个文档将发布在 https://your-account.github.io/homework 中！
+一网友2012年在广州坐地铁经过中大站，
+听地铁英文报站极似双鸭山大学，
+遂发了个朋友圈并配图![]（http://img3.jiemian.com/101/original/20170626/149846120142964000_a580xH.jpg）
+“双鸭山大学“遂在中国高校圈流行起来。
