@@ -8,7 +8,7 @@
 ![image](http://m.qpic.cn/psb?/c14afc9a-e033-4fe6-bcba-f14888f5d08f/3dTOCloDH0lS15YDGY*jrHrCtyH2iqJMPld8We1yWdo!/b/dDYBAAAAAAAA&bo=OARwAgAAAAARF24!&rf=viewer_4)
 
 4·更改元素名称并将子弹和爆炸移到最右方，   
-
+![](http://m.qpic.cn/psb?/c14afc9a-e033-4fe6-bcba-f14888f5d08f/AL5Vc48t8u5qGms3JU0ZbDE7zxXHL1rM1*TJVtSujuA!/b/dDcBAAAAAAAA&bo=OARwAgAAAAARF24!&rf=viewer_4)
 5·为每个元素添加行为，如图：   
 6·复制出多个怪物。   
       
