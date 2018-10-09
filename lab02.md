@@ -13,5 +13,9 @@
 ![](http://m.qpic.cn/psb?/c14afc9a-e033-4fe6-bcba-f14888f5d08f/hiax0u0kwb1IeZ3XJKR79jRZANy*o8sWXp2qFNW13uI!/b/dDMBAAAAAAAA&bo=MQRwAgAAAAARF2c!&rf=viewer_4)
 6·复制出多个怪物。   
 ![](http://m.qpic.cn/psb?/c14afc9a-e033-4fe6-bcba-f14888f5d08f/.My*YEwqTrqmyDCgAs4vBocexT1g3XoBQjNiVYuMFbs!/b/dFMBAAAAAAAA&bo=OARwAgAAAAARF24!&rf=viewer_4)
-…………….        
+……………        
 最后，按照教程做完      
+.......     
+接着点击启动游戏   
+游戏中可通过方向键控制移动，通过鼠标控制方向    
+尽情享受极致的游戏体验！  
