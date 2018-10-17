@@ -1,0 +1,26 @@
+# 解释名词.   
+## 1）ASCII.   
+
+American Standard Code for Information Interchange.  
+美国信息交换标准代码(是基于拉丁字母的一套计算机编码系统。)    
+## 2)color   
+Color is the visual perceptual property corresponding in humans to the categories called red, yellow, blue, etc.   
+Color或Colour是英语“颜色”的意思.  
+# 问题。  
+## 1） 
+中：ASCII：   
+   unicode:0x4E2D   
+   utf-8:%E4%B8%AD     
+A:ASCII:
+  unicode:0x41    
+  utf-8:0x41   
+## 2）    
+黄色的RGB编码：255 255 0  
+## 3）    
+   pnf的显示质量最好。   
+   jpg压缩比：50:1    
+   png压缩率：65%     
+   tiff压缩比：2:1    
+## 4）    
+lossless   
+          
