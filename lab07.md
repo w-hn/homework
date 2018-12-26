@@ -1,8 +1,7 @@
 # 关于实验目标     
     1、了解ACC、PC、IR寄存器的全称与作用，并且通过观察指令的执行过程理解fetch-execute周期,了解基本的指令结构及二进制（机器语言）运作过程       
     2.理解机器语言程序的运作以及过程。          
-    ![](https://lorisyy.github.io/HomeworkSpace/images/cpu1.png)    
-    ![](https://lorisyy.github.io/HomeworkSpace/images/cpu2.png)    
+       
      STEP AFTER STEP:       
 PC (The Program Counter),which contains the address of the next instruction to be exececuted.     
 IR (Instruction register),which contains a copy of the instructionbeing executed.       
