@@ -1,5 +1,5 @@
 Setting:      
-Recently, a pig named Peppa Pig invaded people’s mind, everyone is talking about that pig,
+Recently, a pig named Peppa  invaded people’s mind, everyone is talking about that pig,
 which annoyed Zues，who is the God of the Gods. So the most powerfu God has decided to clear 
 those foolish and childish pigs from the world.
         
